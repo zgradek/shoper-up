@@ -1,3 +1,10 @@
-p {
-    color:red;
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+}
+.menu {
+    display: inline-block;
+}
+.inner-menu {
+    display: inline;
 }
