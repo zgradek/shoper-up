@@ -50,34 +50,20 @@ nav {
     font-size: 50px;
     color: white
 }
-.article-1 {
+.article-box {
     margin: 10px 200px;
     padding: 10px 20px;
     border: 1px solid rgb(203, 203, 209);
     border-radius: 5px;
 }
-.article-1 h2 {
+.article-box h2 {
     padding: 10px 0px;
     font-size: 16px;
     font-weight: bold;
 }
-.article-1 p {
+.article-box p {
     padding: 5px 0px;
 }
-/* .article-2 {
-    margin: 10px 200px;
-    padding: 10px 20px;
-    border: 1px solid rgb(203, 203, 209);
-    border-radius: 5px;
-}
-.article-2 h2 {
-    padding: 10px 0px;
-    font-size: 16px;
-    font-weight: bold;
-}
-.article-2 p {
-    padding: 5px 0px;
-} */
 .article-inner {
     border: 1px solid transparent;
 }
